@@ -5,9 +5,9 @@
  
 ## Steps to execute this calculator:
 - Download entire code 
-- Open up the index.html.
+- Open   up the index.html.
 
 ## Technologies used: 
 - HTML
 - CSS [style/Presentation]
-- Javascript [Logic/Working of calculator]
+- JAVASCRIPT [Logic/Working of calculator]
